@@ -9,7 +9,7 @@ In recent versions (anything >5.2.x) the default behavior on the Windows EN clie
 So I wrote a small utility to auto-convert these Evernote Web URLs to the "old" evernote:/// format (in case it's useful to anyone). It sits quietly in your tray and only performs this one single function - automatically. You can grab it below:
 
 # How to Use
-1. download it (for Windows only): ENConvertURL
+1. download it (for Windows only): [ENConvertURL](https://github.com/luckman212/ENConvertURL/blob/main/ENConvertURL.exe?raw=true)
 2. unzip the .exe file anywhere you like
 3. double click to run it - a settings file will be created in whatever folder you ran the app from.
 4. now, whenever you use Right Click > Copy Note URL it will automatically convert the link into a local evernote:/// format one.
